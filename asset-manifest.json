@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShoptalkForms/static/css/main.13e9841d.css",
+    "main.js": "/ShoptalkForms/static/js/main.0535d9ef.js",
+    "static/js/453.9dce8499.chunk.js": "/ShoptalkForms/static/js/453.9dce8499.chunk.js",
+    "index.html": "/ShoptalkForms/index.html",
+    "main.13e9841d.css.map": "/ShoptalkForms/static/css/main.13e9841d.css.map",
+    "main.0535d9ef.js.map": "/ShoptalkForms/static/js/main.0535d9ef.js.map",
+    "453.9dce8499.chunk.js.map": "/ShoptalkForms/static/js/453.9dce8499.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13e9841d.css",
+    "static/js/main.0535d9ef.js"
+  ]
+}
